@@ -1,2 +1,2 @@
-# test-repository
-test for class
+# Assignments Repo
+A place for my assignments
