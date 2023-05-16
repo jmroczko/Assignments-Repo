@@ -2,7 +2,7 @@
 var generateBtn = document.getElementById("button");
 
 // Write password to the #password input
-function writePassword(String) {
+function writePassword() {
   var password = generatePassword(passwordText);
   var passwordText = document.querySelector(charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789");
   var passwordLength = 10;
